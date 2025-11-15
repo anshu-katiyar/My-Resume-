@@ -171,7 +171,7 @@ html_content = """
     </div>
 
     <div class="contact-item">
-        <a href="https://linkedin.com/in/anshu-katiyar" target="_blank">
+        <a href="https://www.linkedin.com/in/anshu-katiyar-aab048241/" target="_blank">
             <img src="https://blog.boon.so/wp-content/uploads/2024/03/LinkedIn-Logo-2-scaled.jpg" 
                  width="18" style="vertical-align:middle; margin-right:6px;">
             linkedin.com/in/anshu-katiyar
