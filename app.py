@@ -67,6 +67,19 @@ html_content = """
         align-items: center;
     }
 
+    .contact-item a {
+        color: #4d4d4d;
+        text-decoration: none;
+        display: flex;
+        gap: 8px;
+        align-items: center;
+    }
+
+    .contact-item a:hover {
+        color: #222;
+        text-decoration: underline;
+    }
+
     .grid {
         display: grid;
         grid-template-columns: 55% 45%;
@@ -126,39 +139,51 @@ html_content = """
     <div class="contact-box">
 
     <div class="contact-item">
-        <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        katiyaranshu00@gmail.com
+        <a href="mailto:katiyaranshu00@gmail.com">
+            <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            katiyaranshu00@gmail.com
+        </a>
     </div>
 
     <div class="contact-item">
-        <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        9104274998
+        <a href="tel:+919104274998">
+            <img src="https://img.icons8.com/ios-filled/20/000000/phone.png" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            9104274998
+        </a>
     </div>
 
     <div class="contact-item">
-        <img src="https://img.icons8.com/ios-filled/20/000000/marker.png" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        Kanpur, India
+        <a href="https://maps.google.com/?q=Kanpur,India" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/20/000000/marker.png" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            Kanpur, India
+        </a>
     </div>
 
     <div class="contact-item">
-        <img src="https://img.icons8.com/ios-filled/20/000000/birthday.png" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        11, August 2006
+        <span>
+            <img src="https://img.icons8.com/ios-filled/20/000000/birthday.png" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            11, August 2006
+        </span>
     </div>
 
     <div class="contact-item">
-        <img src="https://blog.boon.so/wp-content/uploads/2024/03/LinkedIn-Logo-2-scaled.jpg" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        linkedin.com/in/anshu-katiyar
+        <a href="https://linkedin.com/in/anshu-katiyar" target="_blank">
+            <img src="https://blog.boon.so/wp-content/uploads/2024/03/LinkedIn-Logo-2-scaled.jpg" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            linkedin.com/in/anshu-katiyar
+        </a>
     </div>
 
     <div class="contact-item">
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" 
-             width="18" style="vertical-align:middle; margin-right:6px;">
-        github.com/anshu-katiyar
+        <a href="https://github.com/anshu-katiyar" target="_blank">
+            <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" 
+                 width="18" style="vertical-align:middle; margin-right:6px;">
+            github.com/anshu-katiyar
+        </a>
     </div>
 
 </div>
