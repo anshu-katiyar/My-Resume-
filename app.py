@@ -155,7 +155,7 @@ html_content = """
     </div>
 
     <div class="contact-item">
-        <a href="https://maps.google.com/?q=Kanpur,India" target="_blank">
+        <a href="https://maps.google.com/?q=Tutuichand,India" target="_blank">
             <img src="https://img.icons8.com/ios-filled/20/000000/marker.png" 
                  width="18" style="vertical-align:middle; margin-right:6px;">
             Kanpur, India
