@@ -139,10 +139,10 @@ html_content = """
     <div class="contact-box">
 
     <div class="contact-item">
-        <a href="mailto:katiyaranshu00@gmail.com">
+        <a href="mailto:katiyaranshu297@gmail.com">
             <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" 
                  width="18" style="vertical-align:middle; margin-right:6px;">
-            katiyaranshu00@gmail.com
+            katiyaranshu297@gmail.com
         </a>
     </div>
 
