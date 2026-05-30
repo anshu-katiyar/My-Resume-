@@ -257,7 +257,13 @@ html_content = """
 
             <div class="bold" style="margin-top:12px;">Manthan (codeFest'24) (04/2024 - 04/2024)</div>
             <div class="section-text">Annual fest of Dept. of CSE, IIT (BHU) Varanasi</div>
-
+            
+             <div class="bold" style="margin-top:12px;">Fundamentals of Remote Sensing (05/2026)</div>
+            <div class="section-text">NASA: National Aeronautics and Space Administration</div>
+            
+            <div class="bold" style="margin-top:12px;">Claude Code in Action (06/2026 - 06/2026)</div>
+            <div class="section-text">Anthropic</div>
+            
             <h2>LANGUAGES</h2>
             <div class="section-text bold">Hindi</div>
             <div class="section-text">Native or Bilingual Proficiency</div>
